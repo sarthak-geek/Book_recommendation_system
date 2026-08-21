@@ -8,3 +8,6 @@ Popularity based        Content based      Collaborative filtering based      Hy
 </pre>
 
 Dataset used : https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download
+
+**Popularity Based Recommeneder system**:
+      From the dataset, we will calculate avg rating per book and then identify books which have been rated by more than 250 users. By sorting them in descending order of       average rating, the top 50 books will be recommended.
