@@ -2,6 +2,8 @@
 
 In this repo, I will build a Book Recommendation System. From writing logic and training an AI model to creating a web page to actually demonstrate the output instead of running the program on the terminal. For building this project, I am taking guidance from the following YouTube video: https://www.youtube.com/watch?v=1YoD0fg3_EM&amp;t=283s
 
+The frontend of this project was designed using [GrapesJS Studio](https://app.grapesjs.com/playground).
+
 <pre>
 Types of recommendation system:
       __________________________________________________________________________________
